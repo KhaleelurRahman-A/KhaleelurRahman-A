@@ -73,13 +73,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleelurRahman-A&layout=compact&theme=github_dark" />
 </p> -->
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaleelurRahman-A&show_icons=true&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhaleelurRahman-A&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleelurRahman-A&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleelurRahman-A&layout=compact&theme=github_dark) -->
 
 
 
