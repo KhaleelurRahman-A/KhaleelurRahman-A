@@ -121,9 +121,7 @@
 ## ✍️ Developer Quote
 
 <p align="center">
-  <em><strong>
-“Code should be simple enough for humans to read, clever enough to impress machines.”
-  </strong></em>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everybody%20in%20this%20country%20should%20learn%20to%20program%20a%20computer%20because%20it%20teaches%20you%20how%20to%20think.&author=Steve%20Jobs" />
 </p>
 
-<!-- Profile README customized for Asmath Batcha | Java Full Stack Developer -->
+<!-- Profile README customized for Khaleelur Rahman A | Java Full Stack Developer -->
