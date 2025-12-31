@@ -52,7 +52,7 @@
 
 ### 🛠️ Tools & IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,vscode,github,postman" />
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,postman" />
 </p>
 
 <p align="center">
